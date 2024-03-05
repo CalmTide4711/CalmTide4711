@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CalmTide4711
-- 👀 I’m interested in Machine learning in Space Science
+- 👀 I’m interested in Machine learning in Weather Science
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on application of ML in building Weather Forecasting System
 - 📫 How to reach me ...
